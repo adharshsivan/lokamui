@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Lokam Mini",
+  "description": "A lightweight, modular multiplayer third-person exploration game architecture for web and mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
